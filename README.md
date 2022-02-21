@@ -1,5 +1,5 @@
 # Javier Alejandro Zamora Pantoja
-Mi primer repositorio de prueba2
+LaunchX
 
 Autor: javierzp31
 fecha:11 feb
